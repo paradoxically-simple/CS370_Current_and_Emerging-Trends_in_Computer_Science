@@ -1,0 +1,2 @@
+# CS370_Current_and_Emerging-Trends_in_Computer_Science
+artificial intelligence and intelligent systems
